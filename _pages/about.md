@@ -33,6 +33,7 @@ Organization Committee Member: NAACL 2021
 
 News
 ======
+- __Jun 13, 2022__: Start my internship at Azure AI, Microsoft!
 
 - __Feb 24, 2022__: Our paper ‘PRIMERA: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization’ is accepted at the main conference of ACL 2022!
 
