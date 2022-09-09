@@ -21,15 +21,16 @@ Education Experience
 
 Work Experience
 ======
+**Research Intern**, Azure AI at Microsoft (2022.6-2022.9)\\
 **Research Intern**, Semantic Scholar at AI2 (2021.5-2021.11)\\
 **Teaching Assistant** (CPSC221), University of British Columbia (2017-2018)\\
 **Teaching Assistant** (CSC236,MAT136, etc.), University of Toronto (2016-2017)
 
 
-Service
+<!-- Service
 ======
 Reviewer: ACL 2020, EACL 2021, NAACL 2021, Workshop on New Frontiers in Summarization (2019)\\
-Organization Committee Member: NAACL 2021
+Organization Committee Member: NAACL 2021 -->
 
 News
 ======
