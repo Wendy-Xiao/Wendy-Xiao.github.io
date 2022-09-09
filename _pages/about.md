@@ -44,7 +44,7 @@ News
 
 - __Aug 26, 2021__: Our paper ['T3-Vis: visual analytic for Training and fine-Tuning Transformers in NLP'](https://aclanthology.org/2021.emnlp-demo.26/) is accepted at the Demo track of EMNLP 2021!
 
-- __May 10, 2020__: Start my internship at Semantic Scholar, AI2!
+- __May 10, 2021__: Start my internship at Semantic Scholar, AI2!
 
 
 
