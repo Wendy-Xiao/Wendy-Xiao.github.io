@@ -9,9 +9,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a third-year PhD Candidate at University of British Columbia, and my supervisor is Prof.Giuseppe Carenini. My research interest is Automatic Summarization and Discourse Parsing.
+I am currently a fourth-year PhD Candidate at University of British Columbia, and my supervisor is Prof.Giuseppe Carenini. My research interest is Automatic Summarization and Discourse Parsing.
 
-Outside of work, I like traveling, dancing (beginner) and watching movies and shows.
+Outside of work, I like traveling, dancing and watching movies and shows.
 
 Education Experience
 ======
@@ -35,21 +35,21 @@ Organization Committee Member: NAACL 2021 -->
 News
 ======
 
-- __Dec 20, 2022__: Our paper `Attend to the Right Context: A Plug-and-Play Module for Content-Controllable Summarization` now is available on arXiv.
+- __Dec 20, 2022__: Our paper [Attend to the Right Context: A Plug-and-Play Module for Content-Controllable Summarization](https://arxiv.org/abs/2212.10819) now is available on arXiv.
 
-- __Oct 6, 2022__: Our paper `Human Guided Exploitation of Interpretable Attention Patterns in Summarization and Topic Segmentation` is accepted at the main conference at EMNLP 2022!
+- __Oct 6, 2022__: Our paper [Human Guided Exploitation of Interpretable Attention Patterns in Summarization and Topic Segmentation](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.694.pdf) is accepted at the main conference at EMNLP 2022!
 
-- __Sept 8, 2022__: Our paper `Entity-based SpanCopy for Abstractive Summarization to Improve the Factual Consistency` now is available on arXiv.
+- __Sept 8, 2022__: Our paper [Entity-based SpanCopy for Abstractive Summarization to Improve the Factual Consistency](https://arxiv.org/abs/2209.03479) now is available on arXiv.
 
 - __Jun 13, 2022__: Start my internship at Azure AI, Microsoft!
 
-- __Feb 24, 2022__: Our paper `PRIMERA: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization` is accepted at the main conference of ACL 2022!
+- __Feb 24, 2022__: Our paper [PRIMERA: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization](https://aclanthology.org/2022.acl-long.360/) is accepted at the main conference of ACL 2022!
 
 - __Jan 14, 2022__:  I’m honored to be one of 2021 Interns of the Year awardees by AI2! (3 recipients in total)
 
 - __Dec 1, 2021__:  I finish my thesis proposal, and officially become a PhD candidate!
 
-- __Aug 26, 2021__: Our paper ['T3-Vis: visual analytic for Training and fine-Tuning Transformers in NLP'](https://aclanthology.org/2021.emnlp-demo.26/) is accepted at the Demo track of EMNLP 2021!
+- __Aug 26, 2021__: Our paper [T3-Vis: visual analytic for Training and fine-Tuning Transformers in NLP](https://aclanthology.org/2021.emnlp-demo.26/) is accepted at the Demo track of EMNLP 2021!
 
 - __May 10, 2021__: Start my internship at Semantic Scholar, AI2!
 
