@@ -21,7 +21,7 @@ Education Experience
 
 Work Experience
 ======
-**Research Intern**, Azure AI at Microsoft (2022.6-2022.9)\\
+**Research Intern**, Azure AI at Microsoft (2022.6-Now)\\
 **Research Intern**, Semantic Scholar at AI2 (2021.5-2021.11)\\
 **Teaching Assistant** (CPSC221), University of British Columbia (2017-2018)\\
 **Teaching Assistant** (CSC236,MAT136, etc.), University of Toronto (2016-2017)
@@ -34,9 +34,16 @@ Organization Committee Member: NAACL 2021 -->
 
 News
 ======
+
+- __Dec 20, 2022__: Our paper `Attend to the Right Context: A Plug-and-Play Module for Content-Controllable Summarization` now is available on arXiv.
+
+- __Oct 6, 2022__: Our paper `Human Guided Exploitation of Interpretable Attention Patterns in Summarization and Topic Segmentation` is accepted at the main conference at EMNLP 2022!
+
+- __Sept 8, 2022__: Our paper `Entity-based SpanCopy for Abstractive Summarization to Improve the Factual Consistency` now is available on arXiv.
+
 - __Jun 13, 2022__: Start my internship at Azure AI, Microsoft!
 
-- __Feb 24, 2022__: Our paper ‘PRIMERA: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization’ is accepted at the main conference of ACL 2022!
+- __Feb 24, 2022__: Our paper `PRIMERA: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization` is accepted at the main conference of ACL 2022!
 
 - __Jan 14, 2022__:  I’m honored to be one of 2021 Interns of the Year awardees by AI2! (3 recipients in total)
 
