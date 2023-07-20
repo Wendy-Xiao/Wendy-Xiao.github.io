@@ -25,7 +25,7 @@ Education Experience
 
 Work Experience
 ======
-**Researcher**, Azure AI at Microsoft (2023.6-Now)
+**Researcher**, Azure AI at Microsoft (2023.6-Now)\\
 **Research Intern**, Azure AI at Microsoft (2022.6-2023.5)\\
 **Research Intern**, Semantic Scholar at AI2 (2021.5-2021.11)\\
 **Teaching Assistant** (CPSC221), University of British Columbia (2017-2018)\\
@@ -37,7 +37,7 @@ Service
 Reviewer: *ACL/EMNLP/COLING series conferences since 2019\\
 Organization Committee Member: NAACL 2021 \\
 Area Chair: AACL 2023\\
-Organizer: Newsumm at EMNLP 2023\\
+Organizer: Newsumm at EMNLP 2023
 
 News
 ======
@@ -57,7 +57,7 @@ News
 
 - __Dec 20, 2022__: Our paper [Attend to the Right Context: A Plug-and-Play Module for Content-Controllable Summarization](https://arxiv.org/abs/2212.10819) now is available on arXiv.
 
-- __Oct 6, 2022__: Our paper [Human Guided Exploitation of Interpretable Attention Patterns in Summarization and Topic Segmentation](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.694.pdf) is accepted at the main conference at EMNLP 2022!
+- __Oct 6, 2022__: Our paper [Human Guided Exploitation of Interpretable Attention Patterns in Summarization and Topic Segmentation](https://aclanthology.org/2022.emnlp-main.694/) is accepted at the main conference at EMNLP 2022!
 
 - __Sept 8, 2022__: Our paper [Entity-based SpanCopy for Abstractive Summarization to Improve the Factual Consistency](https://arxiv.org/abs/2209.03479) now is available on arXiv.
 
