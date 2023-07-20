@@ -35,23 +35,23 @@ Work Experience
 Service
 ======
 Reviewer: *ACL/EMNLP/COLING series conferences since 2019\\
-Organization Committee Member: NAACL 2021 
-Area Chair: AACL 2023
-Organizer: Newsumm at EMNLP 2023
+Organization Committee Member: NAACL 2021 \\
+Area Chair: AACL 2023\\
+Organizer: Newsumm at EMNLP 2023\\
 
 News
 ======
 
-- __July 13, 2023__: Orally present the paper [Entity-based SpanCopy for Abstractive Summarization to Improve the Factual Consistency](https://arxiv.org/abs/2209.03479) at [CODI](https://sites.google.com/view/codi-2023/home?authuser=0)
+- __July 13, 2023__: Orally present the paper [Entity-based SpanCopy for Abstractive Summarization to Improve the Factual Consistency](https://arxiv.org/abs/2209.03479) at [CODI](https://sites.google.com/view/codi-2023/home?authuser=0).
 
 - __June 30, 2023__: Serve as an Area Chair at [AACL 2023](http://www.ijcnlp-aacl2023.org/).
 
 - __June 12, 2023__: Onboard Microsoft Azure AI as a researcher.
 
-- __May 30, 2023__: Our paper [Entity-based SpanCopy for Abstractive Summarization to Improve the Factual Consistency](https://arxiv.org/abs/2209.03479) is accepted at [CODI](https://sites.google.com/view/codi-2023/home?authuser=0) at ACL 2023.
+- __May 30, 2023__: One paper is accepted at [CODI](https://sites.google.com/view/codi-2023/home?authuser=0) at ACL 2023.
 
 - __May 4, 2023__: Our paper [ChatGPT-steered Editing Instructor for Customization of Abstractive Summarization
-](https://arxiv.org/abs/2209.03479](https://arxiv.org/abs/2305.02483) is available on arXiv.
+](https://arxiv.org/abs/2305.02483) is available on arXiv.
 
 - __April 28, 2023__: Successfully defended my PhD Thesis, become Dr.Xiao officially!
 
