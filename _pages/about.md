@@ -9,9 +9,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a fourth-year PhD Candidate at University of British Columbia, and my supervisor is Prof.Giuseppe Carenini. My research interest is Automatic Summarization and Discourse Parsing.
+Welcome to my page! At present, I am a passionate researcher at Microsoft Azure AI. My primary role involves leveraging text summarization techniques for product enhancement. My journey to this position started when I earned my Ph.D. from the University of British Columbia in April 2023. I was privileged to have been advised by Prof. Giuseppe Carenini during this period.
 
-Outside of work, I like traveling, dancing and watching movies and shows.
+Before diving into my doctoral studies, I had the opportunity to complete my Master's degree at UBC as well. Going further back, I acquired my Bachelor's degree from the esteemed University of Toronto.
+
+Previously, I invested substantial time and effort into exploring text summarization and discourse parsing, building a wealth of knowledge in these areas. Recently, my curiosity has recently been drawn towards the captivating realm of general text generation and large language models, with a specific interest in their cognitive aspects. In particular, I'm interested in exploring how large language models (LLMs) perform in complex games that involve deception and reverse logic.
+
+Outside of work, I like traveling, kpop dancing, and a diving into movies and shows. I also have a passion for board games, especially the ‘murder’ mystery games.
 
 Education Experience
 ======
@@ -21,19 +25,35 @@ Education Experience
 
 Work Experience
 ======
-**Research Intern**, Azure AI at Microsoft (2022.6-Now)\\
+**Researcher**, Azure AI at Microsoft (2023.6-Now)
+**Research Intern**, Azure AI at Microsoft (2022.6-2023.5)\\
 **Research Intern**, Semantic Scholar at AI2 (2021.5-2021.11)\\
 **Teaching Assistant** (CPSC221), University of British Columbia (2017-2018)\\
 **Teaching Assistant** (CSC236,MAT136, etc.), University of Toronto (2016-2017)
 
 
-<!-- Service
+Service
 ======
-Reviewer: ACL 2020, EACL 2021, NAACL 2021, Workshop on New Frontiers in Summarization (2019)\\
-Organization Committee Member: NAACL 2021 -->
+Reviewer: *ACL/EMNLP/COLING series conferences since 2019\\
+Organization Committee Member: NAACL 2021 
+Area Chair: AACL 2023
+Organizer: Newsumm at EMNLP 2023
 
 News
 ======
+
+- __July 13, 2023__: Orally present the paper [Entity-based SpanCopy for Abstractive Summarization to Improve the Factual Consistency](https://arxiv.org/abs/2209.03479) at [CODI](https://sites.google.com/view/codi-2023/home?authuser=0)
+
+- __June 30, 2023__: Serve as an Area Chair at [AACL 2023](http://www.ijcnlp-aacl2023.org/).
+
+- __June 12, 2023__: Onboard Microsoft Azure AI as a researcher.
+
+- __May 30, 2023__: Our paper [Entity-based SpanCopy for Abstractive Summarization to Improve the Factual Consistency](https://arxiv.org/abs/2209.03479) is accepted at [CODI](https://sites.google.com/view/codi-2023/home?authuser=0) at ACL 2023.
+
+- __May 4, 2023__: Our paper [ChatGPT-steered Editing Instructor for Customization of Abstractive Summarization
+](https://arxiv.org/abs/2209.03479](https://arxiv.org/abs/2305.02483) is available on arXiv.
+
+- __April 28, 2023__: Successfully defended my PhD Thesis, become Dr.Xiao officially!
 
 - __Dec 20, 2022__: Our paper [Attend to the Right Context: A Plug-and-Play Module for Content-Controllable Summarization](https://arxiv.org/abs/2212.10819) now is available on arXiv.
 
@@ -47,11 +67,6 @@ News
 
 - __Jan 14, 2022__:  I’m honored to be one of 2021 Interns of the Year awardees by AI2! (3 recipients in total)
 
-- __Dec 1, 2021__:  I finish my thesis proposal, and officially become a PhD candidate!
-
-- __Aug 26, 2021__: Our paper [T3-Vis: visual analytic for Training and fine-Tuning Transformers in NLP](https://aclanthology.org/2021.emnlp-demo.26/) is accepted at the Demo track of EMNLP 2021!
-
-- __May 10, 2021__: Start my internship at Semantic Scholar, AI2!
 
 
 
