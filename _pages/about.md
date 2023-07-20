@@ -19,7 +19,7 @@ Outside of work, I like traveling, kpop dancing, and a diving into movies and sh
 
 Education Experience
 ======
-**Ph.D.** - University of British Columbia, Supervisor: Prof. Giuseppe Carenini (2019 - Now)\\
+**Ph.D.** - University of British Columbia, Supervisor: Prof. Giuseppe Carenini (2019 - 2023)\\
 **M.Sc.** - University of British Columbia, Supervisor: Prof. Giuseppe Carenini (2017 - 2019)\\
 **B.Sc.** - University of Toronto, Advisor: Prof. Gerald Penn (2013-2017)
 
