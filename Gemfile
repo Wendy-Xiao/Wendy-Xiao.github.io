@@ -25,7 +25,7 @@ group :jekyll_plugins do
     gem 'hawkins'
   # gem "jekyll-scholar"
     # gem 'jekyll'
-    gem 'jekyll'
+    gem 'jekyll','3.9.3'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
