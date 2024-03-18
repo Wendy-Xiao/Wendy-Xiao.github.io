@@ -25,7 +25,7 @@ group :jekyll_plugins do
     gem 'hawkins'
   # gem "jekyll-scholar"
     # gem 'jekyll'
-    gem 'jekyll','3.9.3'
+    gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
@@ -33,7 +33,7 @@ group :jekyll_plugins do
     gem 'jekyll-github-metadata'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-responsive-image'
-    gem 'jekyll-scholar'
+    gem 'jekyll-scholar','7.0'
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
