@@ -9,13 +9,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my page! At present, I am a passionate researcher at Microsoft Azure AI. My primary role involves leveraging text summarization techniques for product enhancement. My journey to this position started when I earned my Ph.D. from the University of British Columbia in April 2023. I was privileged to have been advised by Prof. Giuseppe Carenini during this period.
+Welcome to my page! At present, I am a a Senior Researcher at Microsoft Azure AI, where I focus on making large language models faster, more efficient, and more capable at reasoning and coding. My research spans efficient inference, efficient reasoning, code generation, and agent evaluation and training—including work on swe-agent, where I explore how reasoning models can be evaluated and improved through interactive, real-world tasks.
 
-Before diving into my doctoral studies, I had the opportunity to complete my Master's degree at UBC as well. Going further back, I acquired my Bachelor's degree from the esteemed University of Toronto.
+Before focusing on reasoning and efficiency, I worked extensively on text summarization, developing both research and production systems that power Azure AI products. These include compliant abstractive summarization models and open-source implementations that bridge scientific research and scalable deployment.
 
-Previously, I invested substantial time and effort into exploring text summarization and discourse parsing, building a wealth of knowledge in these areas. Recently, my curiosity has recently been drawn towards the captivating realm of general text generation and large language models, with a specific interest in their cognitive aspects. In particular, I'm interested in exploring how large language models (LLMs) perform in complex games that involve deception and reverse logic.
+I also have deep experience in training and aligning LLMs, including supervised fine-tuning (SFT), direct preference optimization (DPO), and reinforcement learning (RL). Broadly, I’m interested in how models can reason and act efficiently, generalize to new domains, and align with human intent without sacrificing scalability or interpretability.
 
-Outside of work, I like traveling, kpop dancing, and a diving into movies and shows. I also have a passion for board games, especially the ‘murder’ mystery games.
+I earned my Ph.D. in Computer Science from the University of British Columbia in 2023, advised by Prof. Giuseppe Carenini, where I explored text summarization and discourse analysis. Before that, I completed my Master’s at UBC and my Bachelor’s at the University of Toronto.
+
+Outside of research, I enjoy traveling, K-pop dance, and movies. I’m also an avid board game player, especially murder mystery games that test logic and creativity—just like the reasoning I study in AI.
 
 Education Experience
 ======
@@ -25,6 +27,7 @@ Education Experience
 
 Work Experience
 ======
+**Senior Researcher**, CoreAI at Microsoft (2024.9-Now)\\
 **Researcher**, Azure AI at Microsoft (2023.6-Now)\\
 **Research Intern**, Azure AI at Microsoft (2022.6-2023.5)\\
 **Research Intern**, Semantic Scholar at AI2 (2021.5-2021.11)\\
@@ -34,10 +37,10 @@ Work Experience
 
 Service
 ======
-Reviewer: *ACL/EMNLP/COLING series conferences since 2019\\
+Reviewer: *ACL/EMNLP/COLING/NeurIPS/ICLR/ARR series conferences since 2019\\
 Organization Committee Member: NAACL 2021 \\
 Area Chair: AACL 2023\\
-Organizer: Newsumm at EMNLP 2023
+Organizer: Newsumm at EMNLP 2023/2025
 
 News
 ======
